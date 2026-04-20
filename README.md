@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Hamza
 
-<!--
-**Hamzadevolperweb/Hamzadevolperweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer specializing in React.js**
 
-Here are some ideas to get you started:
+I build modern, responsive and high-performance web applications using **React.js, JavaScript, and TypeScript**.
+Focused on creating clean UI, smooth user experience and scalable frontend architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+💻 **Frontend**
+
+* React.js
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+
+⚙️ **Tools**
+
+* Git & GitHub
+* Vercel
+* Netlify
+* VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Store
+
+Modern responsive e-commerce UI with product listing and clean design.
+
+### 🍕 Pizzon
+
+Pizza ordering website built with JavaScript and responsive layout.
+
+### 💼 Portfolio Website
+
+Personal developer portfolio built using **React + TypeScript**.
+
+🔗 Live Website
+https://m-hamza-portfolio-eight.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+![Hamza GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamzadevolperweb\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzadevolperweb\&layout=compact\&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React Patterns
+* Next.js
+* Frontend Performance Optimization
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio
+https://m-hamza-portfolio-eight.vercel.app/
+
+💼 LinkedIn
+https://linkedin.com/in/m-hamza-dev
+
+🐙 GitHub
+https://github.com/Hamzadevolperweb
+
+---
+
+⭐ **Always building, always learning.**
+
