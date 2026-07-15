@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=200&section=header&text=Muhammad%20Hamza&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=React%20Frontend%20Developer%20%7C%20Modern%20UI%20Builder%20%7C%20Available%20for%20Hire&descSize=16&descAlignY=58&descColor=e0f2fe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=200&section=header&text=Muhammad%20Hamza&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Building%20End-to-End%20Web%20Apps&descSize=15&descAlignY=58&descColor=e0f2fe" />
 
 <p>
 
@@ -16,29 +16,30 @@
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=React+Frontend+Developer;Modern+Responsive+Web+Applications;React+%7C+TypeScript+%7C+Tailwind;Building+Clean+UI+and+Smooth+User+Experiences;Available+for+Freelance+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+MongoDB;Building+Scalable+Web+Applications;REST+APIs+%7C+Databases+%7C+Deployment;Available+for+Freelance+Projects" />
 
 </div>
 
 ---
 
-# Who I Am
+## 👨‍💻 About Me
 
-I’m **Muhammad Hamza**, a frontend developer focused on building modern, responsive and scalable web applications using React.
+I'm **Muhammad Hamza**, a Full Stack Developer who builds complete web applications — from pixel-perfect frontends to robust backend systems and databases.
 
-I specialize in turning designs into fast, production-ready interfaces with clean code and strong performance.
+I turn ideas into fully functional products: clean UI, solid APIs, and reliable deployment, all handled end-to-end.
 
-- React.js developer focused on scalable UI
-- Experience building responsive and interactive web interfaces
-- Strong focus on performance and user experience
-- Comfortable working with modern frontend tools and deployment platforms
+- 🚀 Full Stack development with React, Node.js & Express
+- 🎨 Building responsive, interactive, and accessible interfaces
+- 🗄️ Designing and managing databases (MongoDB / SQL)
+- 🔗 Building and consuming REST APIs
+- ⚡ Focused on performance, clean code, and scalability
+- 🤝 Comfortable working solo or in a team, from idea to deployment
 
 ---
 
-# Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -46,30 +47,38 @@ I specialize in turning designs into fast, production-ready interfaces with clea
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Tools
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|------|------|------|
-| E-commerce Store | Responsive modern store UI with product pages | React + Tailwind |
-| Pizzon Website | Pizza ordering interface with responsive design | JavaScript |
-| Portfolio Website | Personal developer portfolio | React + TypeScript |
+| Project | Description | Tech Stack |
+|---|---|---|
+| **E-commerce Store** | Full store with product listing, cart & checkout flow | React, Node.js, MongoDB, Tailwind |
+| **Pizzon Website** | Pizza ordering platform with backend order handling | JavaScript, Node.js, Express |
+| **Portfolio Website** | Personal developer portfolio & showcase | React, TypeScript |
 
-Live Website  
-https://m-hamza-portfolio-eight.vercel.app/
+🔗 **Live Portfolio:** https://m-hamza-portfolio-eight.vercel.app/
+
+> 💡 *Tip: Replace these with your actual repo links once ready — e.g. `[E-commerce Store](https://github.com/yourusername/repo-name)`*
 
 ---
 
-# GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -79,15 +88,19 @@ https://m-hamza-portfolio-eight.vercel.app/
 
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzadevolperweb&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 ---
 
-# Let's Work Together
+## 🤝 Let's Work Together
 
 <div align="center">
 
-I am currently available for freelance frontend projects.
+I am currently available for **full stack freelance projects**.
 
-If you need a developer who can transform your designs into modern React interfaces, feel free to reach out.
+If you need a developer who can handle the complete process — frontend, backend, database & deployment — let's talk.
 
 <br>
 
